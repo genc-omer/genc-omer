@@ -20,3 +20,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=genc-omer&show_icons=true&locale=en" alt="genc-omer" /></p>
 
+![snake gif](https://github.com/genc-omer/genc-omer/blob/output/github-contribution-grid-snake.gif)
